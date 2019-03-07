@@ -5,10 +5,12 @@ require (
 	github.com/c2h5oh/datasize v0.0.0-20171227191756-4eba002a5eae
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fortytw2/leaktest v1.3.0 // indirect
+	github.com/google/go-cmp v0.2.0 // indirect
 	github.com/ipfs/go-ipfs-api v0.0.1
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/mailru/easyjson v0.0.0-20190221075403-6243d8e04c3f // indirect
 	github.com/multiformats/go-multiaddr-dns v0.0.2 // indirect
+	github.com/olivere/elastic v6.2.16+incompatible // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/streadway/amqp v0.0.0-20190225234609-30f8ed68076e
 	golang.org/x/crypto v0.0.0-20190228161510-8dd112bcdc25 // indirect
@@ -16,7 +18,7 @@ require (
 	golang.org/x/sync v0.0.0-20190227155943-e225da77a7e6
 	golang.org/x/sys v0.0.0-20190306220723-b294cbcfc56d // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
-	gopkg.in/olivere/elastic.v5 v5.0.79
+	gopkg.in/olivere/elastic.v6 v6.2.16
 	gopkg.in/urfave/cli.v1 v1.20.0
 	gopkg.in/yaml.v2 v2.2.2
 )

@@ -3,7 +3,7 @@ package indexer
 import (
 	"context"
 	"encoding/json"
-	"gopkg.in/olivere/elastic.v5"
+	"gopkg.in/olivere/elastic.v6"
 	"log"
 )
 

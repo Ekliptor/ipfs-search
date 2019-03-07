@@ -2,7 +2,7 @@ package factory
 
 import (
 	"golang.org/x/net/context"
-	"gopkg.in/olivere/elastic.v5"
+	"gopkg.in/olivere/elastic.v6"
 	"log"
 )
 
